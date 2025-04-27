@@ -1,4 +1,4 @@
-import AllStarTeam from "../../public/All-star-team.png";
+import Vinnere2023 from "../../public/vinnere2023.jpg";
 
 function Artikkel2() {
   return (
@@ -8,7 +8,7 @@ function Artikkel2() {
           <h1 className="text-xl font-medium  lg:max-w-[800px]">
             RUV-prisen og tidligere prisvinnere
           </h1>
-          <img src={AllStarTeam} alt="" className="w-full max-w-[800px] " />
+          <img src={Vinnere2023} alt="" className="w-full max-w-[800px] " />
           <div className="flex flex-col gap-3 px-4 sm:px-6 lg:px-8  lg:mx-0 lg:max-w-[800px]">
             <h2 className="text-center md:text-left font-bold">
               Lista over prisvinnere ser slik ut:

@@ -15,7 +15,7 @@ function Home() {
       </div>
       <section className="flex flex-col mt-5 gap-4 justify-center items-center">
         <h1 className="text-3xl text-[#dda520]">Velkommen</h1>
-        <p className="max-w-[741px] text-center text-sm">
+        <p className="max-w-[741px] text-center text-sm px-4 sm:px-6 lg:px-10">
           RUV er en forening av utflyttede raufossinger og andre sympatisører av
           Raufoss- fotballen. Vi vil gjennom vår virksomhet gi en håndsrekning
           til det viktige sosiale og trivselsmessige arbeid som gjøres for og
