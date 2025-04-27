@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 384 149" style="enable-background:new 0 0 384 149;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{fill:none;}
+	.st2{font-family:'Lato-Black';}
+	.st3{font-size:30px;}
+	.st4{font-family:'Lato-Light';}
+	.st5{font-size:24px;}
+	.st6{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+	.st7{fill:#FFFFFF;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+	.st8{fill:#FFFFFF;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<g id="Layer_2" class="st0">
+	
+		<image style="display:inline;overflow:visible;" width="72" height="72" xlink:href="Logo_png_raufoss_gul_2021.png"  transform="matrix(3.2222 0 0 3.2222 124 9)">
+	</image>
+</g>
+<g id="Layer_1">
+	<rect x="119.5" y="52.4" class="st1" width="259.5" height="25.6"/>
+	<text transform="matrix(1 0 0 1 128.0391 74.9102)" class="st2 st3">Raufossfotballens</text>
+	<rect x="117.5" y="78.4" class="st1" width="259.5" height="25.6"/>
+	<text transform="matrix(1 0 0 1 157.6895 95.9092)" class="st4 st5">utflyttede venner</text>
+	<g>
+		<path class="st6" d="M72.2,134c-7.2-14.4-29.9-8.3-41.6-16.7c-1.1-0.8-1.8-2.2-1.8-3.7V23h43.4c0,0,43.4,0,43.4,0v90.6
+			c0,1.5-0.7,2.9-1.8,3.7C102,125.7,79.4,119.6,72.2,134z"/>
+		<path class="st7" d="M72.2,65.1"/>
+		<path class="st8" d="M72.2,130.3"/>
+		<polyline class="st7" points="28,50.4 72.2,50.4 114.8,50.4 		"/>
+		<line class="st7" x1="72.2" y1="134" x2="72.2" y2="50.4"/>
+	</g>
+	<g>
+		<path class="st6" d="M66.2,292c-7.2-14.4-29.9-8.3-41.6-16.7c-1.1-0.8-1.8-2.2-1.8-3.7V181h43.4c0,0,43.4,0,43.4,0v90.6
+			c0,1.5-0.7,2.9-1.8,3.7C96,283.7,73.4,277.6,66.2,292z"/>
+		<path class="st7" d="M66.2,223.1"/>
+		<path class="st8" d="M66.2,288.3"/>
+		<polyline class="st7" points="22,208.4 66.2,208.4 108.8,208.4 		"/>
+		<line class="st7" x1="66.2" y1="292" x2="66.2" y2="208.4"/>
+	</g>
+</g>
+</svg>
