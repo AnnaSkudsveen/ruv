@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
-import Raufosslaget from "../../public/raufoss-laget.jpg";
-import AllStarTeam from "../../public/All-star-team.png";
-import Tribune from "../../public/tribune.jpg";
+import Raufosslaget from "/raufoss-laget.jpg";
+import AllStarTeam from "/All-star-team.png";
+import Tribune from "/tribune.jpg";
 
 function Home() {
   return (
@@ -35,11 +35,13 @@ function Home() {
               alt="tegning av Raufossfotballens utflyttede venners allstars"
               className="h-[200px]"
             />
-            <p className="text-xs text-gray-400">3. Januar 2025</p>
+            <p className="text-xs text-gray-400">3. januar 2025</p>
             <h3 className="text-black hover:text-[#9f7000] text-center">
               Raufossfotballens Utflyttede Venner 33 år i 2021
             </h3>
-            <p className="text-xs text-gray-400">Av Thor Willy Granlund</p>
+            <p className="text-xs text-gray-400">
+              Av Thor Willy Granlund - redigert av Bjørn Morten Skudsveen 2025
+            </p>
           </Link>
           <Link
             to="/ruv-prisen"
@@ -50,9 +52,19 @@ function Home() {
               alt="tegning av Raufossfotballens utflyttede venners allstars"
               className="h-[200px] relative top-0"
             />
-            <p className="text-xs text-gray-400">3. Januar 2025</p>
+            <p className="text-xs text-gray-400">3. januar 2025</p>
             <h3 className="text-black hover:text-[#9f7000] text-center">
               RUV-prisen og tidligere prisvinnere
+            </h3>
+          </Link>
+          <Link
+            to="/aarsmoetetema"
+            className="flex flex-col gap-3 items-center justify-between w-[250px] h-full"
+          >
+            <img src="" alt="" />
+            <p>29. april 2025</p>
+            <h3 className="text-black hover:text-[#9f7000] text-center">
+              Årsmøtekåsører/tema
             </h3>
           </Link>
         </div>

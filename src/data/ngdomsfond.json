@@ -1,0 +1,79 @@
+[
+  {
+    "year": 2004,
+    "type": "Bidrag",
+    "recipient": "Skianlegg ved Raufoss Stadion",
+    "amount": 5000,
+    "notes": ""
+  },
+  {
+    "year": 2006,
+    "type": "Treningsstipend",
+    "recipient": "Maja Jakobsen (junior ski/håndball)",
+    "amount": 5000,
+    "notes": ""
+  },
+  {
+    "year": 2007,
+    "type": "Treningsstipend",
+    "recipient": "4 utøvere i eldre junior Raufoss SLI",
+    "amount": 10000,
+    "notes": ""
+  },
+  {
+    "year": 2008,
+    "type": "Treningsstipend",
+    "recipient": "Junior elite Fotball",
+    "amount": 20000,
+    "notes": ""
+  },
+  {
+    "year": 2009,
+    "type": "Treningsstipend",
+    "recipient": "Team Raufoss Fotball",
+    "amount": 10000,
+    "notes": ""
+  },
+  {
+    "year": 2010,
+    "type": "Treningsstipend",
+    "recipient": "Team Raufoss Fotball",
+    "amount": 10000,
+    "notes": ""
+  },
+  {
+    "year": 2011,
+    "type": "Treningsstipend",
+    "recipient": "Benedikte Birkelund og Henrik Kjeldsrud",
+    "amount": 20000,
+    "notes": "kr 10 000 hver, for deltakelse på aldersbestemte landslag i fotball"
+  },
+  {
+    "year": 2015,
+    "type": "Treningsstipend",
+    "recipient": "J 16 og G 16",
+    "amount": 20000,
+    "notes": "kr 10 000 til hver, utbetalt i 2016"
+  },
+  {
+    "year": 2016,
+    "type": "Treningsstipend",
+    "recipient": "U19",
+    "amount": 10000,
+    "notes": "Utbetalt i 2017"
+  },
+  {
+    "year": 2017,
+    "type": "Treningsstipend",
+    "recipient": "U19",
+    "amount": 10000,
+    "notes": "Utbetalt i 2018"
+  },
+  {
+    "year": 2018,
+    "type": "Bidrag",
+    "recipient": "Ballbinge for 3-erfotball",
+    "amount": 20000,
+    "notes": "Utbetalt i 2018"
+  }
+]

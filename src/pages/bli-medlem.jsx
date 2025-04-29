@@ -1,4 +1,4 @@
-import MedlemsBevis1989 from "../../public/RUV-Medlemsbevis-1989.jpg";
+import MedlemsBevis1989 from "/RUV-Medlemsbevis-1989.jpg";
 
 function BliMedlem() {
   return (
