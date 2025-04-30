@@ -181,9 +181,6 @@ function Artikkel1() {
               ungdomsidretten på Raufoss …»
             </p>
 
-            <h2 className="text-center md:text-left font-bold">
-              Visjoner for framtida
-            </h2>
             <ul className="flex flex-col gap-2">
               {ungdomsfond.map((award, index) => (
                 <li key={index}>
